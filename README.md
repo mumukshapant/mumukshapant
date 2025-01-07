@@ -10,11 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumukshapant&label=Profile%20views&color=0e75b6&style=flat" alt="mumukshapant" /> </p>
 
-- 🎓  I earned my Master's degree from Northeastern University, where I built a solid foundation in software engineering and data sciences—now I'm here to turn theory into high-impact code.
+- 🎓  I earned my **Master's** degree from **Northeastern University**, Boston, where I built a solid foundation in software engineering and data sciences—now I'm here to turn theory into high-impact code.
 
 - 💻 Currently sharpening my skills on **LeetCode** —tackling algorithms, mastering data structures, and getting interview-ready, one problem at a time!
 
-- 💼 With 2 years of industry experience in Software Development, I’ve mastered building scalable backend systems and data pipelines. Oh, and I’ve got a solid grip on Machine Learning and AI—because why just write code when you can make it think too? 🤖
+- 💼 With **2 years of industry experience** in **Software Development**, I’ve mastered building scalable backend systems and data pipelines. Oh, and I’ve got a solid grip on **Machine Learning**, **NLP** and **AI** —because why just write code when you can make it think too? 🤖
 
 - ⚡ **Fun Fact**: When I'm not coding, I'm either experimenting in the kitchen with new recipes 🍳, binge-watching the latest series 📺, or getting lost in a good book. My latest read was *Eleanor Oliphant is Completely Fine* — always on the lookout for my next page-turner!
 
@@ -23,7 +23,7 @@
 
 Explore my projects and contributions, aka my "code playground." 😎
 - **Latest Project**: [Medical Specialty Classification using NLP](https://github.com/mumukshapant/MedicalSpecialtyClassification/)
-- **Other Projects**: [Check them out here](http://github.com/mumukshapant/)
+- **Other Projects**: [Check them out here](https://github.com/mumukshapant?tab=repositories)
 - **LeetCode Profile**: [See my progress](https://leetcode.com/u/mumupan97)
 
 
